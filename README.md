@@ -6,7 +6,7 @@ In this exercise the objective was to create a type of game where the user can c
 
 ## How to run
 
-Simply open the index.html file in a browser window. To create a PacMan hit the "Add PacMan" button. To make the PacMen move hit the "Start Game" button, and to make them bite/eat hit the "Bite button" in the top left corner.
+You have to clone the project to your own computer. Then you simply open the index.html file in a browser window. To create a PacMan hit the "Add PacMan" button. To make the PacMen move hit the "Start Game" button, and to make them bite/eat hit the "Bite button" in the top left corner.
 
 ## Roadmap pf future improvements
 
